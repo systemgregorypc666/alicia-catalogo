@@ -1,6 +1,6 @@
 ________________________________________
 FICHA TÉCNICA DE DESARROLLO - SYSTEM GREGORY PC
-PROYECTO: Catálogo Digital Interactivo "ARISHA"
+PROYECTO: Catálogo Digital Interactivo "ALICIA"
 DESARROLLADOR: José Gregorio Hernández Calderón
 VERSIÓN: 1.0 (Edición 2026)
 TECNOLOGÍA: Arquitectura Híbrida de Alta Compatibilidad
