@@ -12,15 +12,15 @@ function sonarPagina() {
 // 2. Función para enviar el pedido por WhatsApp (Precios COP)
 function enviarWhatsApp(nombreProducto, precio) {
     // Número de la cliente en Bucaramanga (Cámbialo por el real)
-    const telefono = "573000000000"; 
+    const telefono = "580400000000"; 
     
     // Mensaje automático personalizado
     const mensaje = encodeURIComponent(
-        `Hola Arisha! 👋 Vi tu catálogo web.\n\n` +
+        `Hola Alicia! 👋 Vi tu catálogo web.\n\n` +
         `Me interesa este producto:\n` +
         `📌 *${nombreProducto}*\n` +
         `💰 Precio: *${precio}*\n\n` +
-        `¿Está disponible? Quedo atento/a para el pago por Nequi/Daviplata. 🇨🇴`
+        `¿Está disponible? Quedo atento/a para el pago por Pagpmovil/Daviplata. 🇨🇴`
     );
 
     // URL de WhatsApp
